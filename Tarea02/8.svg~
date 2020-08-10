@@ -1,0 +1,11 @@
+<svg width='200' height ='200'>
+  <path d="M 30 100 C 45 75  165 75 170 100 z" stroke="#F8F32B" stroke-width="2" fill="white"/>
+  <line x1="30" y1="150" x2="100" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+  <text x="80" y="140" style="font-family: Consolas">a<tspan baseline-shift="sub">1</tspan></text>
+  <circle cx ='30' cy ='150' r='10' fill = "#F50087"/>
+  <text x="30" y="160" style="font-family: Consolas">v<tspan baseline-shift="sub">1</tspan></text>
+  <circle cx ='100' cy ='150' r='10' fill = "#F50087"/>
+  <text x="100" y="160" style="font-family: Consolas">v<tspan baseline-shift="sub">2</tspan></text>
+  <circle cx ='65' cy ='50' r='10' fill = "#F50087"/>
+  <text x="65" y="60" style="font-family: Consolas">c<tspan baseline-shift="sub">3</tspan></text>
+</svg>
