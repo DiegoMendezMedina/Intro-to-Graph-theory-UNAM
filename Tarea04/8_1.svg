@@ -1,0 +1,28 @@
+<svg width='200' height ='200'>
+  <line x1="100" y1="20" x2="20" y2="75" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="100" y1="20" x2="180" y2="75" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="75" x2="60" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="180" y1="75" x2="140" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="60" y1="180" x2="140" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+
+  <circle cx ='100' cy ='20' r='10' fill = "#F50087"/>
+  <text x="90" y="20" style="font-family: Consolas">v<tspan baseline-shift="sub">1</tspan></text>
+  <circle cx ='50' cy ='50' r='10' fill = "#F50087"/>
+  <text x="40" y="50" style="font-family: Consolas">v<tspan baseline-shift="sub">10</tspan></text>
+  <circle cx ='10' cy ='80' r='10' fill = "#F50087"/>
+  <text x="0" y="80" style="font-family: Consolas">v<tspan baseline-shift="sub">9</tspan></text>
+  <circle cx ='180' cy ='75' r='10' fill = "#F50087"/>
+  <text x="170" y="75" style="font-family: Consolas">v<tspan baseline-shift="sub">3</tspan></text>
+  <circle cx ='150' cy ='150' r='10' fill = "#F50087"/>
+  <text x="140" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub">5</tspan></text>
+  <circle cx ='50' cy ='150' r='10' fill = "#F50087"/>
+  <text x="40" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub">7</tspan></text>
+  <circle cx ='30' cy ='120' r='10' fill = "#F50087"/>
+  <text x="20" y="120" style="font-family: Consolas">v<tspan baseline-shift="sub">8</tspan></text>
+  <circle cx ='170' cy ='120' r='10' fill = "#F50087"/>
+  <text x="160" y="120" style="font-family: Consolas">v<tspan baseline-shift="sub">4</tspan></text>
+  <circle cx ='100' cy ='180' r='10' fill = "#F50087"/>
+  <text x="90" y="180" style="font-family: Consolas">v<tspan baseline-shift="sub">6</tspan></text>
+  <circle cx ='150' cy ='50' r='10' fill = "#F50087"/>
+  <text x="140" y="50" style="font-family: Consolas">v<tspan baseline-shift="sub">2</tspan></text>
+</svg>
