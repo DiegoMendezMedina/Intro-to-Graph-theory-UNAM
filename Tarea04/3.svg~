@@ -1,0 +1,22 @@
+<svg width='200' height ='200'> 
+  <line x1="20" y1="50" x2="100" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+  <text x="50" y="50" style="font-family: Consolas">a<tspan baseline-shift="sub"></tspan></text>
+<line x1="20" y1="150" x2="150" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<text x="50" y="150" style="font-family: Consolas">a'<tspan baseline-shift="sub"></tspan></text>
+<text x="110" y="150" style="font-family: Consolas">a''<tspan baseline-shift="sub"></tspan></text>
+
+<circle cx ='20' cy ='50' r='10' fill = "#F50087"/>
+<text x="15" y="50" style="font-family: Consolas">u<tspan baseline-shift="sub"></tspan></text>
+<circle cx ='100' cy ='50' r='10' fill = "#F50087"/>
+<text x="95" y="50" style="font-family: Consolas">v<tspan baseline-shift="sub"></tspan></text>
+
+<circle cx ='20' cy ='150' r='10' fill = "#F50087"/>
+<text x="15" y="150" style="font-family: Consolas">u<tspan baseline-shift="sub"></tspan></text>
+<circle cx ='80' cy ='150' r='10' fill = "#F50087"/>
+<text x="75" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub">a</tspan></text>
+<circle cx ='150' cy ='150' r='10' fill = "#F50087"/>
+<text x="145" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub"></tspan></text>
+
+<text x="50" y="10" style="font-family: Consolas">G<tspan baseline-shift="sub"></tspan></text>
+<text x="50" y="120" style="font-family: Consolas">H<tspan baseline-shift="sub"></tspan></text>
+</svg

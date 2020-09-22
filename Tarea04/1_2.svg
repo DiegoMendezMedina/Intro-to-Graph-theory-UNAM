@@ -1,0 +1,67 @@
+<svg width='300' height ='200'>
+  <line x1="30" y1="150" x2="150" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<text x="50" y="150" style="font-family: Consolas">a'<tspan baseline-shift="sub"></tspan></text>
+<text x="110" y="150" style="font-family: Consolas">a''<tspan baseline-shift="sub"></tspan></text>
+
+<line x1="10" y1="100" x2="40" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="10" y1="100" x2="40" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<circle cx ='10' cy ='100' r='10' fill = "#F50087"/>
+<text x="5" y="100" style="font-family: Consolas">V<tspan baseline-shift="sub"></tspan>0</text>
+
+
+<line x1="275" y1="100" x2="240" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="275" y1="100" x2="240" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="275" y1="100" x2="230" y2="100" style="stroke:#F8F32B; stroke-width:3"></line>
+
+<line x1="30" y1="50" x2="70" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="240" y1="50" x2="210" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="30" y1="150" x2="70" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="130" y1="150" x2="100" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="150" y1="150" x2="210" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="240" y1="150" x2="210" y2="150" style="stroke:#F8F32B; stroke-width:3"></line>
+<circle cx ='70' cy ='50' r='5' fill = "black"/>
+<circle cx ='80' cy ='50' r='5' fill = "black"/>
+<circle cx ='90' cy ='50' r='5' fill = "black"/>
+
+<line x1="150" y1="100" x2="230" y2="100" style="stroke:#F8F32B; stroke-width:3"></line>
+<line x1="130" y1="100" x2="50" y2="50" style="stroke:#F8F32B; stroke-width:3"></line>
+	<circle cx ='130' cy ='100' r='5' fill = "black"/>
+	<circle cx ='140' cy ='100' r='5' fill = "black"/>
+	<circle cx ='150' cy ='100' r='5' fill = "black"/>
+	
+
+<circle cx ='130' cy ='50' r='5' fill = "black"/>
+<circle cx ='140' cy ='50' r='5' fill = "black"/>
+<circle cx ='150' cy ='50' r='5' fill = "black"/>
+
+
+<circle cx ='190' cy ='50' r='5' fill = "black"/>
+<circle cx ='200' cy ='50' r='5' fill = "black"/>
+<circle cx ='210' cy ='50' r='5' fill = "black"/>
+
+
+<circle cx ='190' cy ='150' r='5' fill = "black"/>
+<circle cx ='200' cy ='150' r='5' fill = "black"/>
+<circle cx ='210' cy ='150' r='5' fill = "black"/>
+
+
+<circle cx ='40' cy ='50' r='10' fill = "blue"/>
+<text x="35" y="50" style="font-family: Consolas"><tspan baseline-shift="sub"></tspan></text>
+<circle cx ='40' cy ='150' r='10' fill = "blue"/>
+<text x="35" y="150" style="font-family: Consolas"><tspan baseline-shift="sub">
+</tspan></text>
+
+<circle cx ='240' cy ='50' r='10' fill = "#F50087"/>
+<circle cx ='240' cy ='100' r='10' fill = "#F50087"/>
+<circle cx ='240' cy ='150' r='10' fill = "#F50087"/>
+
+<circle cx ='280' cy ='100' r='10' fill = "#F50087"/>
+<text x="275" y="100" style="font-family: Consolas">V<tspan baseline-shift="sub">k</tspan></text>
+
+
+<circle cx ='80' cy ='150' r='10' fill = "#F50087"/>
+<text x="75" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub">a</tspan></text>
+<circle cx ='150' cy ='150' r='10' fill = "#F50087"/>
+<text x="145" y="150" style="font-family: Consolas">v<tspan baseline-shift="sub"></tspan></text>
+<text x="35" y="150" style="font-family: Consolas">u<tspan baseline-shift="sub"></tspan></text>
+</svg>

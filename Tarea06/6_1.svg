@@ -1,0 +1,24 @@
+<svg width='200' height ='200'> 
+  <line x1="20" y1="20" x2="100" y2="20" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="20" x2="100" y2="100" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="20" x2="100" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="100" x2="100" y2="100" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="180" x2="100" y2="100" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="100" x2="100" y2="20" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="100" x2="100" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="180" x2="100" y2="20" style="stroke:#F8F32B; stroke-width:3"></line>
+  <line x1="20" y1="180" x2="100" y2="180" style="stroke:#F8F32B; stroke-width:3"></line>
+
+  <circle cx ='20' cy ='20' r='10' fill = "#F50087"/>
+  <text x="15" y="25" style="font-family: Consolas">a<tspan baseline-shift="sub"></tspan></text>
+  <circle cx ='100' cy ='20' r='10' fill = "blue"/>
+  <text x="95" y="25" style="font-family: Consolas">1<tspan baseline-shift="sub"></tspan></text>
+  <circle cx ='20' cy ='100' r='10' fill = "#F50087"/>
+  <text x="15" y="105" style="font-family: Consolas">b<tspan baseline-shift="sub"></tspan></text>
+  <circle cx ='100' cy ='100' r='10' fill = "blue"/>
+  <text x="95" y="105" style="font-family: Consolas">2<tspan baseline-shift="sub"></tspan></text>
+  <circle cx ='20' cy ='180' r='10' fill = "#F50087"/>
+  <text x="15" y="185" style="font-family: Consolas">c<tspan baseline-shift="sub"></tspan></text>
+  <circle cx ='100' cy ='180' r='10' fill = "blue"/>
+  <text x="95" y="185" style="font-family: Consolas">3<tspan baseline-shift="sub"></tspan></text>
+</svg>
